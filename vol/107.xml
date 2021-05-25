@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>107.jpg</filename>
+	<path>C:\Users\www33\Desktop\dog_dataset\img\107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stand up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>903</ymin>
+			<xmax>1510</xmax>
+			<ymax>2128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stand up</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>2111</ymin>
+			<xmax>3024</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
