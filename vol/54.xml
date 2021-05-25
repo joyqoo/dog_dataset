@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>54.jpg</filename>
+	<path>C:\Users\www33\Desktop\dog_dataset\img\54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Get down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>159</ymin>
+			<xmax>2709</xmax>
+			<ymax>3941</ymax>
+		</bndbox>
+	</object>
+</annotation>

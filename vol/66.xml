@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>66.jpg</filename>
+	<path>C:\Users\www33\Desktop\dog_dataset\img\66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lie down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1572</xmin>
+			<ymin>395</ymin>
+			<xmax>3052</xmax>
+			<ymax>2476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lie down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>263</ymin>
+			<xmax>1530</xmax>
+			<ymax>1676</ymax>
+		</bndbox>
+	</object>
+</annotation>
